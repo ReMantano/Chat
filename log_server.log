@@ -1,0 +1,152 @@
+2018-11-15 19:34:29 INFO  Server:35 - Server running
+2018-11-15 19:35:00 INFO  Server:50 - Connection: /127.0.0.1 : 51030
+2018-11-15 19:35:17 INFO  Server:32 - A registered like a CLIENT
+2018-11-15 19:36:05 INFO  Server:50 - Connection: /127.0.0.1 : 51050
+2018-11-15 19:36:11 INFO  Server:32 - a registered like a AGENT
+2018-11-15 19:36:25 INFO  Server:54 - Disconnect: /127.0.0.1 : 51030
+2018-11-15 19:36:31 INFO  Server:54 - Disconnect: /127.0.0.1 : 51050
+2018-11-18 12:36:49 INFO  Server:37 - Server running
+2018-11-18 12:41:01 INFO  Server:37 - Server running
+2018-11-18 12:41:47 INFO  Server:35 - A registered like a AGENT
+2018-11-18 12:42:45 INFO  Server:37 - Server running
+2018-11-18 12:43:43 INFO  Server:35 - A registered like a CLIENT
+2018-11-18 12:43:52 INFO  Server:63 - Disconnect: Socket[addr=/127.0.0.1,port=49431,localport=8080]
+2018-11-18 12:45:17 INFO  Server:37 - Server running
+2018-11-18 12:45:59 INFO  Server:35 - A registered like a CLIENT
+2018-11-18 12:46:28 INFO  Server:35 - B registered like a CLIENT
+2018-11-18 12:46:52 INFO  Server:35 - S registered like a AGENT
+2018-11-18 12:48:03 INFO  Server:63 - Disconnect: Socket[addr=/127.0.0.1,port=49448,localport=8080]
+2018-11-18 12:48:05 INFO  Server:63 - Disconnect: Socket[addr=/127.0.0.1,port=49457,localport=8080]
+2018-11-18 12:48:06 INFO  Server:63 - Disconnect: Socket[addr=/127.0.0.1,port=49465,localport=8080]
+2018-11-18 13:13:11 INFO  Server:35 - Server running
+2018-11-18 13:13:40 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49555,localport=8080]
+2018-11-18 13:14:10 INFO  Server:32 - A registered like a CLIENT
+2018-11-18 13:14:23 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49563,localport=8080]
+2018-11-18 13:14:29 INFO  Server:32 - B registered like a CLIENT
+2018-11-18 13:14:53 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49571,localport=8080]
+2018-11-18 13:14:58 INFO  Server:32 - S registered like a AGENT
+2018-11-18 13:15:45 INFO  Server:70 - Disconnect: Socket[addr=/127.0.0.1,port=49563,localport=8080]
+2018-11-18 13:15:45 INFO  Server:70 - Disconnect: Socket[addr=/127.0.0.1,port=49563,localport=8080]
+2018-11-18 13:18:23 INFO  Server:70 - Disconnect: Socket[addr=/127.0.0.1,port=49571,localport=8080]
+2018-11-18 13:18:23 INFO  Server:70 - Disconnect: Socket[addr=/127.0.0.1,port=49571,localport=8080]
+2018-11-18 13:18:29 INFO  Server:70 - Disconnect: Socket[addr=/127.0.0.1,port=49555,localport=8080]
+2018-11-18 13:18:29 INFO  Server:70 - Disconnect: Socket[addr=/127.0.0.1,port=49555,localport=8080]
+2018-11-18 13:28:08 INFO  Server:35 - Server running
+2018-11-18 13:28:35 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49630,localport=8080]
+2018-11-18 13:28:35 INFO  Server:58 - Connection: Socket[addr=/127.0.0.1,port=49630,localport=8080]
+2018-11-18 13:28:52 INFO  Server:32 - A registered like a AGENT
+2018-11-18 13:29:41 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49640,localport=8080]
+2018-11-18 13:29:41 INFO  Server:58 - Connection: Socket[addr=/127.0.0.1,port=49640,localport=8080]
+2018-11-18 13:30:31 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49648,localport=8080]
+2018-11-18 13:30:31 INFO  Server:58 - Connection: Socket[addr=/127.0.0.1,port=49648,localport=8080]
+2018-11-18 13:30:38 INFO  Server:32 - a registered like a AGENT
+2018-11-18 13:31:00 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49656,localport=8080]
+2018-11-18 13:31:00 INFO  Server:58 - Connection: Socket[addr=/127.0.0.1,port=49656,localport=8080]
+2018-11-18 13:31:04 INFO  Server:32 - a registered like a AGENT
+2018-11-18 13:31:28 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49665,localport=8080]
+2018-11-18 13:31:28 INFO  Server:58 - Connection: Socket[addr=/127.0.0.1,port=49665,localport=8080]
+2018-11-18 13:31:32 INFO  Server:65 - Disconnect: Socket[addr=/127.0.0.1,port=49665,localport=8080]
+2018-11-18 13:31:55 INFO  Server:46 - Connecting: Socket[addr=/127.0.0.1,port=49671,localport=8080]
+2018-11-18 13:31:55 INFO  Server:58 - Connection: Socket[addr=/127.0.0.1,port=49671,localport=8080]
+2018-11-18 13:32:02 INFO  Server:65 - Disconnect: Socket[addr=/127.0.0.1,port=49671,localport=8080]
+2018-11-18 13:33:25 INFO  Server:35 - Server running
+2018-11-18 13:33:52 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49686,localport=8080]
+2018-11-18 13:33:59 INFO  Server:63 - Disconnect: Socket[addr=/127.0.0.1,port=49686,localport=8080]
+2018-11-18 13:36:40 INFO  Server:35 - Server running
+2018-11-18 13:37:06 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49707,localport=8080]
+2018-11-18 13:37:09 INFO  Server:63 - Disconnect: Socket[addr=/127.0.0.1,port=49707,localport=8080]
+2018-11-18 13:46:41 INFO  Server:35 - Server running
+2018-11-18 13:47:07 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49746,localport=8080]
+2018-11-18 13:47:43 INFO  Server:35 - Server running
+2018-11-18 13:48:08 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49760,localport=8080]
+2018-11-18 13:48:48 INFO  Server:32 - A registered like a CLIENT
+2018-11-18 13:48:56 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49770,localport=8080]
+2018-11-18 13:49:01 INFO  Server:32 - B registered like a CLIENT
+2018-11-18 13:49:26 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49777,localport=8080]
+2018-11-18 13:49:33 INFO  Server:32 - A registered like a AGENT
+2018-11-18 13:50:21 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49786,localport=8080]
+2018-11-18 13:50:26 INFO  Server:32 - A registered like a AGENT
+2018-11-18 13:50:30 INFO  Server:63 - Disconnect: Socket[addr=/127.0.0.1,port=49786,localport=8080]
+2018-11-18 13:53:16 INFO  Server:35 - Server running
+2018-11-18 13:53:42 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49806,localport=8080]
+2018-11-18 13:53:54 INFO  Server:32 - A registered like a AGENT
+2018-11-18 13:54:07 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49813,localport=8080]
+2018-11-18 13:54:20 INFO  Server:32 - V registered like a CLIENT
+2018-11-18 13:58:49 INFO  Server:35 - Server running
+2018-11-18 13:59:17 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49840,localport=8080]
+2018-11-18 13:59:25 INFO  Server:32 - a registered like a AGENT
+2018-11-18 14:02:03 INFO  Server:35 - Server running
+2018-11-18 14:02:31 INFO  Server:56 - Connection: Socket[addr=/127.0.0.1,port=49859,localport=8080]
+2018-11-18 14:02:46 INFO  Server:32 - a registered like a AGENT
+2018-11-18 14:02:48 INFO  Server:64 - Disconnect: Socket[addr=/127.0.0.1,port=49859,localport=8080]
+2018-11-20 02:05:08 INFO  Server:39 - Server running
+2018-11-20 02:05:39 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50746,localport=8080]
+2018-11-20 02:06:18 INFO  Server:32 - Adolf registered like a CLIENT
+2018-11-20 02:06:39 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50752,localport=8080]
+2018-11-20 02:07:21 INFO  Server:32 - B registered like a CLIENT
+2018-11-20 02:07:29 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50758,localport=8080]
+2018-11-20 02:07:35 INFO  Server:32 - A registered like a AGENT
+2018-11-20 02:07:56 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50765,localport=8080]
+2018-11-20 02:08:04 INFO  Server:32 - BA registered like a AGENT
+2018-11-20 02:08:34 INFO  Server:68 - Disconnect: Socket[addr=/127.0.0.1,port=50765,localport=8080]
+2018-11-20 02:08:34 ERROR Server:77 - Error: Socket[addr=/127.0.0.1,port=50765,localport=8080]
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at main.Net.MessageReader.read(MessageReader.java:26)
+	at main.Net.MessageReader.run(MessageReader.java:49)
+2018-11-20 02:09:24 INFO  Server:68 - Disconnect: Socket[addr=/127.0.0.1,port=50746,localport=8080]
+2018-11-20 02:09:24 ERROR Server:77 - Error: Socket[addr=/127.0.0.1,port=50746,localport=8080]
+java.net.SocketException: socket closed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at main.Net.MessageReader.read(MessageReader.java:26)
+	at main.Net.MessageReader.run(MessageReader.java:49)
+2018-11-20 02:10:51 INFO  Server:39 - Server running
+2018-11-20 02:11:21 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50778,localport=8080]
+2018-11-20 02:11:31 INFO  Server:32 - A registered like a CLIENT
+2018-11-20 02:11:53 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50784,localport=8080]
+2018-11-20 02:12:06 INFO  Server:32 - A registered like a AGENT
+2018-11-20 02:12:10 INFO  Server:68 - Disconnect: Socket[addr=/127.0.0.1,port=50784,localport=8080]
+2018-11-20 02:12:31 INFO  Server:68 - Disconnect: Socket[addr=/127.0.0.1,port=50778,localport=8080]
+2018-11-20 02:12:39 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50792,localport=8080]
+2018-11-20 02:12:49 INFO  Server:68 - Disconnect: Socket[addr=/127.0.0.1,port=50792,localport=8080]
+2018-11-20 02:13:06 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50796,localport=8080]
+2018-11-20 02:13:11 INFO  Server:68 - Disconnect: Socket[addr=/127.0.0.1,port=50796,localport=8080]
+2018-11-20 02:13:34 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50802,localport=8080]
+2018-11-20 02:24:56 INFO  Server:39 - Server running
+2018-11-20 02:36:30 INFO  Server:39 - Server running
+2018-11-20 02:36:49 INFO  Server:60 - Connection: Socket[addr=/127.0.0.1,port=50959,localport=8080]
+2018-11-20 02:36:57 INFO  Server:32 - a зарегистрировался как CLIENT
+2018-11-20 02:37:01 ERROR Server:76 - Error: Socket[addr=/127.0.0.1,port=50959,localport=8080]
+java.net.SocketException: Connection reset
+	at java.net.SocketInputStream.read(SocketInputStream.java:210)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at main.Net.MessageReader.read(MessageReader.java:26)
+	at main.Net.MessageReader.run(MessageReader.java:49)
+2018-11-20 02:37:01 INFO  Server:67 - Disconnect: Socket[addr=/127.0.0.1,port=50959,localport=8080]
